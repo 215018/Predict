@@ -68,9 +68,4 @@ uv run python predict-the-quantitysold.py
 - If you want to make this a reusable package, create a proper package folder and update `pyproject.toml` accordingly.
 
 ## Output
-
-<<<<<<< HEAD
 - `submission.csv` - Generated predictions for the unlabeled data.
-=======
-- `submission1.csv` - Generated predictions for the unlabeled data.
->>>>>>> 3b1d458 (comit)
