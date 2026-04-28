@@ -187,7 +187,7 @@ submission = pd.DataFrame({
     "Quantity_Sold_(kilo)": test_predictions
 })
 
-submission.to_csv("submission1.csv", index=False)
+submission.to_csv("submission.csv", index=False)
 
-print("submission1.csv created successfully")
+print("submission.csv created successfully")
 # %%
