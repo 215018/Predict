@@ -7,6 +7,10 @@ This project predicts the `Quantity_Sold_(kilo)` value for supermarket sales dat
 - `predict-the-quantitysold.py` - Main Python script that loads data, preprocesses it, trains models, evaluates performance, and generates predictions.
 - `labeled_data.csv` - Labeled dataset containing features and the target `Quantity_Sold_(kilo)`.
 - `unlabeled_data.csv` - Dataset without target values, used for final predictions.
+<<<<<<< HEAD
+=======
+- `requirements.txt` - Required Python packages.
+>>>>>>> 3b1d458 (comit)
 - `pyproject.toml` / `uv.lock` - Project metadata and dependency lock file for `uv`.
 
 ## What it does
@@ -69,4 +73,8 @@ uv run python predict-the-quantitysold.py
 
 ## Output
 
+<<<<<<< HEAD
 - `submission.csv` - Generated predictions for the unlabeled data.
+=======
+- `submission1.csv` - Generated predictions for the unlabeled data.
+>>>>>>> 3b1d458 (comit)
